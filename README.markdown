@@ -1,0 +1,1 @@
+Essential JavaScript And jQuery Design Patterns の翻訳です。ライセンスは原文と同じです。
